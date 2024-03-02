@@ -4,7 +4,8 @@ Created on Wed Feb 28 13:38:08 2024
 
 @author: pc
 """
-
+x= 10 
+print(x*2)
 print("hallo")
 if __name__=="__main__":
     print("Ali")
